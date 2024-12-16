@@ -8,4 +8,4 @@ pip install requirements.txt
 git clone 
 https://github.com/AlgirianoDuBled/WhatsMyName.git
 
-python whatsyourname.py
+python whatsmyname.py
